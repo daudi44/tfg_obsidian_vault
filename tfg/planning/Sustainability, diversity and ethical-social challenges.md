@@ -1,7 +1,7 @@
-**Sustainability**
+## **Sustainability**
 
 
-**Diversity**
+## **Diversity**
 
 
-**Ethical/Social challenges**
+## **Ethical/Social challenges**
