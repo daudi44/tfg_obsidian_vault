@@ -1,0 +1,1 @@
+For the storage of the data I've decided to use **MySQL**. 
