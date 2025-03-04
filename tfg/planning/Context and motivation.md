@@ -1,3 +1,5 @@
+#Planning
+
 During some months since I've started to work and think in how to manage my incomes I have considered creating an excel where have a register for each month incomes and expenses.
 At the same time I was using 2 web applications ([Trello](https://trello.com/) and [Monday](https://monday.com/lang/esMonday)) for managing my UOC deliveries and the development of personal projects. 
 
